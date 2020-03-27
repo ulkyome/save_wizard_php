@@ -1,0 +1,11 @@
+{
+  "SERVERS": [
+    "178.205.143.7:8082"
+  ],
+  "AUTH_SERVERS": [
+    "178.205.143.7:8082"
+  ],
+  "BaseUrl": "http://ps4ws2.savewizard.net:8082",
+  "BaseUrl_u": "http://ps4ws2.savewizard.net:8082",
+  "GamesUrl": "http://ps4ws2.savewizard.net:8082"
+}
