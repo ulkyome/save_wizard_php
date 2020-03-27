@@ -7,5 +7,6 @@
   ],
   "BaseUrl": "http://ps4ws2.savewizard.net:8082",
   "BaseUrl_u": "http://ps4ws2.savewizard.net:8082",
-  "GamesUrl": "http://ps4ws2.savewizard.net:8082"
+  "GamesUrl": "http://ps4ws2.savewizard.net:8082",
+  "siteUrl": "http://ps4ws2.savewizard.net:8082"
 }
