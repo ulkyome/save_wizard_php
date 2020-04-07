@@ -1,0 +1,10 @@
+{
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "guzzlehttp/guzzle": "^6.5",
+        "spatie/array-to-xml": "^2.10",
+        "colshrapnel/safemysql": "^1.1",
+        "predis/predis": "^1.1",
+        "smarty/smarty": "^3.1"
+    }
+}
